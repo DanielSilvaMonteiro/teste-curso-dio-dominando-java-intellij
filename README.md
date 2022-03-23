@@ -1,5 +1,5 @@
 # DigitalInnovationOne
 ## teste-curso-dio-dominando-java-intelliJ
--Conhecendo a IDE;
--Conhecendo Atalhos;
--Calculadora.
+- Conhecendo a IDE;
+- Conhecendo Atalhos;
+- Calculadora.
